@@ -21,11 +21,11 @@ class TelegramRSSParser:
             'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'
         }
         self.rss_sources = [
+          "https://ru-element.ru/rss-work/rss.php?tg={channel}",
             "https://tg.i-c-a.su/rss/{channel}",
             "https://rsshub.app/telegram/channel/{channel}",
             "https://telegram.meta.ua/rss/{channel}",
             "https://tg.i-c-a.su/rss/{channel}?format=html",
-
         ]
         self.init_db()
 
