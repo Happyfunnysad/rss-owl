@@ -1,6 +1,7 @@
 # RSS Parser для Telegram-каналов
 
-Инструмент для мониторинга и архивации постов из Telegram-каналов через RSS-фиды. В качестве примера использованы российские каналы оповещения о воздушной тревоге.
+Инструмент для мониторинга и архивации постов из Telegram-каналов через RSS-фиды. 
+В качестве примера использованы российские каналы оповещения о воздушной тревоге.
 
 ## Основные компоненты
 
@@ -61,10 +62,14 @@ python migratedb.py
 ## RSS источники
 - tg.i-c-a.su
 - rsshub.app
-- telegram.meta.ua
+- ru-element.ru- telegram.meta.ua
+- tg.i-c-a.su
 
 ## Зависимости
 - feedparser
 - requests
-- sqlite3 (встроенный)
-```
+- pandas
+- matplotlib
+- seaborn
+- wordcloud
+- numpy
