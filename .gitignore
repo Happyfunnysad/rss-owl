@@ -7,3 +7,4 @@ tg-posts.db
 Dockerfile
 docker-compose.yml
 Docker
+.dockerignore
