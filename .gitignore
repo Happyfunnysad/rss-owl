@@ -4,3 +4,6 @@ tg-posts.db
 *.db
 *.txt
 .venv
+Dockerfile
+docker-compose.yml
+Docker
