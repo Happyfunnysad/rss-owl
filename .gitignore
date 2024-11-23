@@ -1,6 +1,4 @@
 *.pyc
-*.db
-*.txt
 .venv
 Dockerfile
 docker-compose.yml
