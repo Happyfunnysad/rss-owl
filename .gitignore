@@ -1,0 +1,6 @@
+tg-posts.db
+tg-posts.txt
+*.pyc
+*.db
+*.txt
+.venv
