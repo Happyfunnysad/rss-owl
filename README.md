@@ -38,9 +38,7 @@ Module for analyzing collected data from the database. It includes:
 ## Installation
 
 ```bash
-git clone [repository-url]
-cd [project-folder]
-pip install -r requirements.txt
+git clone https://github.com/Happyfunnysad/rss-owl ;cd rss-owl;pip install -r requirements.txt
 ```
 
 ## Usage
