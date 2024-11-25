@@ -38,7 +38,9 @@ Module for analyzing collected data from the database. It includes:
 ## Installation
 
 ```bash
-git clone https://github.com/Happyfunnysad/rss-owl ;cd rss-owl;pip install -r requirements.txt
+git clone https://github.com/Happyfunnysad/rss-owl
+cd rss-owl
+pip install -r requirements.txt
 ```
 
 ## Usage
@@ -130,15 +132,19 @@ Contains:
 - Анализ упоминаний географических локаций
 - Генерацию графиков и отчетов в формате Markdown для визуализации данных
 
-## Установка
+‐------------------
+
+# Установка
+
 
 ```bash
-git clone [url-репозитория]
-cd [папка-проекта]
+git clone https://github.com/Happyfunnysad/rss-owl
+cd rss-owl
 pip install -r requirements.txt
 ```
+------------------
 
-## Использование
+# Использование
 
 1. Настройте каналы и правила в `config.json`
 2. Запустите основной парсер:
@@ -226,11 +232,10 @@ python analytic-md.py
 ## 安装
 
 ```bash
-git clone [仓库 URL]
-cd [项目文件夹]
+git clone https://github.com/Happyfunnysad/rss-owl
+cd rss-owl
 pip install -r requirements.txt
 ```
-
 ## 使用
 
 1. 在 `config.json` 中配置频道和规则
