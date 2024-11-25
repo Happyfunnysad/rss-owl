@@ -95,7 +95,7 @@ Contains:
 
 -----------------------------------------
 
-# Russian
+# Rus
 
 # RSS Parser для Telegram-каналов
 
