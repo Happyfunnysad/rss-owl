@@ -26,6 +26,7 @@ class TelegramRSSParser:
             "https://rsshub.app/telegram/channel/{channel}",
             "https://telegram.meta.ua/rss/{channel}",
             "https://tg.i-c-a.su/rss/{channel}?format=html",
+"https://rss-bridge.org/bridge01/?action=display&bridge=TelegramBridge&username={channel}&format=Html
         ]
         self.init_db()
 
